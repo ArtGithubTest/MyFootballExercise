@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\C# Fundamentals\\4. C# Advanced Features\\Week02Sat003\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10F5B26B-9F44-4D7C-AB8A-CCBD57B1B141}|Week02Sat003\\Week02Sat003.csproj|c:\\users\\user\\desktop\\c# fundamentals\\4. c# advanced features\\week02sat003\\week02sat003\\footballteam\\footballteam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10F5B26B-9F44-4D7C-AB8A-CCBD57B1B141}|Week02Sat003\\Week02Sat003.csproj|solutionrelative:week02sat003\\footballteam\\footballteam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10F5B26B-9F44-4D7C-AB8A-CCBD57B1B141}|Week02Sat003\\Week02Sat003.csproj|c:\\users\\user\\desktop\\c# fundamentals\\4. c# advanced features\\week02sat003\\week02sat003\\footballteam\\ifootballteam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10F5B26B-9F44-4D7C-AB8A-CCBD57B1B141}|Week02Sat003\\Week02Sat003.csproj|solutionrelative:week02sat003\\footballteam\\ifootballteam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10F5B26B-9F44-4D7C-AB8A-CCBD57B1B141}|Week02Sat003\\Week02Sat003.csproj|c:\\users\\user\\desktop\\c# fundamentals\\4. c# advanced features\\week02sat003\\week02sat003\\coachteam\\coachteam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10F5B26B-9F44-4D7C-AB8A-CCBD57B1B141}|Week02Sat003\\Week02Sat003.csproj|solutionrelative:week02sat003\\coachteam\\coachteam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10F5B26B-9F44-4D7C-AB8A-CCBD57B1B141}|Week02Sat003\\Week02Sat003.csproj|c:\\users\\user\\desktop\\c# fundamentals\\4. c# advanced features\\week02sat003\\week02sat003\\coachteam\\coachdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10F5B26B-9F44-4D7C-AB8A-CCBD57B1B141}|Week02Sat003\\Week02Sat003.csproj|solutionrelative:week02sat003\\coachteam\\coachdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10F5B26B-9F44-4D7C-AB8A-CCBD57B1B141}|Week02Sat003\\Week02Sat003.csproj|c:\\users\\user\\desktop\\c# fundamentals\\4. c# advanced features\\week02sat003\\week02sat003\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10F5B26B-9F44-4D7C-AB8A-CCBD57B1B141}|Week02Sat003\\Week02Sat003.csproj|solutionrelative:week02sat003\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10F5B26B-9F44-4D7C-AB8A-CCBD57B1B141}|Week02Sat003\\Week02Sat003.csproj|c:\\users\\user\\desktop\\c# fundamentals\\4. c# advanced features\\week02sat003\\week02sat003\\sharedclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10F5B26B-9F44-4D7C-AB8A-CCBD57B1B141}|Week02Sat003\\Week02Sat003.csproj|solutionrelative:week02sat003\\sharedclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10F5B26B-9F44-4D7C-AB8A-CCBD57B1B141}|Week02Sat003\\Week02Sat003.csproj|c:\\users\\user\\desktop\\c# fundamentals\\4. c# advanced features\\week02sat003\\week02sat003\\footballteam\\playerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10F5B26B-9F44-4D7C-AB8A-CCBD57B1B141}|Week02Sat003\\Week02Sat003.csproj|solutionrelative:week02sat003\\footballteam\\playerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10F5B26B-9F44-4D7C-AB8A-CCBD57B1B141}|Week02Sat003\\Week02Sat003.csproj|c:\\users\\user\\desktop\\c# fundamentals\\4. c# advanced features\\week02sat003\\week02sat003\\coachteam\\icoach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10F5B26B-9F44-4D7C-AB8A-CCBD57B1B141}|Week02Sat003\\Week02Sat003.csproj|solutionrelative:week02sat003\\coachteam\\icoach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10F5B26B-9F44-4D7C-AB8A-CCBD57B1B141}|Week02Sat003\\Week02Sat003.csproj|c:\\users\\user\\desktop\\c# fundamentals\\4. c# advanced features\\week02sat003\\week02sat003\\week02sat003.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{10F5B26B-9F44-4D7C-AB8A-CCBD57B1B141}|Week02Sat003\\Week02Sat003.csproj|solutionrelative:week02sat003\\week02sat003.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10F5B26B-9F44-4D7C-AB8A-CCBD57B1B141}|Week02Sat003\\Week02Sat003.csproj|c:\\users\\user\\desktop\\c# fundamentals\\4. c# advanced features\\week02sat003\\week02sat003\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10F5B26B-9F44-4D7C-AB8A-CCBD57B1B141}|Week02Sat003\\Week02Sat003.csproj|solutionrelative:week02sat003\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\C# Fundamentals\\4. C# Advanced Features\\Week02Sat003\\Week02Sat003\\Person.cs",
+              "RelativeDocumentMoniker": "Week02Sat003\\Person.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\C# Fundamentals\\4. C# Advanced Features\\Week02Sat003\\Week02Sat003\\Person.cs",
+              "RelativeToolTip": "Week02Sat003\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T11:36:12.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayerDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\C# Fundamentals\\4. C# Advanced Features\\Week02Sat003\\Week02Sat003\\FootballTeam\\PlayerDTO.cs",
+              "RelativeDocumentMoniker": "Week02Sat003\\FootballTeam\\PlayerDTO.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\C# Fundamentals\\4. C# Advanced Features\\Week02Sat003\\Week02Sat003\\FootballTeam\\PlayerDTO.cs",
+              "RelativeToolTip": "Week02Sat003\\FootballTeam\\PlayerDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T11:34:58.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FootballTeam.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\C# Fundamentals\\4. C# Advanced Features\\Week02Sat003\\Week02Sat003\\FootballTeam\\FootballTeam.cs",
+              "RelativeDocumentMoniker": "Week02Sat003\\FootballTeam\\FootballTeam.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\C# Fundamentals\\4. C# Advanced Features\\Week02Sat003\\Week02Sat003\\FootballTeam\\FootballTeam.cs",
+              "RelativeToolTip": "Week02Sat003\\FootballTeam\\FootballTeam.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T11:46:24.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IFootballTeam.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\C# Fundamentals\\4. C# Advanced Features\\Week02Sat003\\Week02Sat003\\FootballTeam\\IFootballTeam.cs",
+              "RelativeDocumentMoniker": "Week02Sat003\\FootballTeam\\IFootballTeam.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\C# Fundamentals\\4. C# Advanced Features\\Week02Sat003\\Week02Sat003\\FootballTeam\\IFootballTeam.cs",
+              "RelativeToolTip": "Week02Sat003\\FootballTeam\\IFootballTeam.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T11:44:48.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CoachTeam.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\C# Fundamentals\\4. C# Advanced Features\\Week02Sat003\\Week02Sat003\\CoachTeam\\CoachTeam.cs",
+              "RelativeDocumentMoniker": "Week02Sat003\\CoachTeam\\CoachTeam.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\C# Fundamentals\\4. C# Advanced Features\\Week02Sat003\\Week02Sat003\\CoachTeam\\CoachTeam.cs",
+              "RelativeToolTip": "Week02Sat003\\CoachTeam\\CoachTeam.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T11:47:53.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICoach.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\C# Fundamentals\\4. C# Advanced Features\\Week02Sat003\\Week02Sat003\\CoachTeam\\ICoach.cs",
+              "RelativeDocumentMoniker": "Week02Sat003\\CoachTeam\\ICoach.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\C# Fundamentals\\4. C# Advanced Features\\Week02Sat003\\Week02Sat003\\CoachTeam\\ICoach.cs",
+              "RelativeToolTip": "Week02Sat003\\CoachTeam\\ICoach.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T11:44:22.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CoachDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\C# Fundamentals\\4. C# Advanced Features\\Week02Sat003\\Week02Sat003\\CoachTeam\\CoachDTO.cs",
+              "RelativeDocumentMoniker": "Week02Sat003\\CoachTeam\\CoachDTO.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\C# Fundamentals\\4. C# Advanced Features\\Week02Sat003\\Week02Sat003\\CoachTeam\\CoachDTO.cs",
+              "RelativeToolTip": "Week02Sat003\\CoachTeam\\CoachDTO.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T11:27:19.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\C# Fundamentals\\4. C# Advanced Features\\Week02Sat003\\Week02Sat003\\Program.cs",
+              "RelativeDocumentMoniker": "Week02Sat003\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\C# Fundamentals\\4. C# Advanced Features\\Week02Sat003\\Week02Sat003\\Program.cs",
+              "RelativeToolTip": "Week02Sat003\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBgAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T11:13:18.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SharedClass.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\C# Fundamentals\\4. C# Advanced Features\\Week02Sat003\\Week02Sat003\\SharedClass.cs",
+              "RelativeDocumentMoniker": "Week02Sat003\\SharedClass.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\C# Fundamentals\\4. C# Advanced Features\\Week02Sat003\\Week02Sat003\\SharedClass.cs",
+              "RelativeToolTip": "Week02Sat003\\SharedClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T11:19:53.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Week02Sat003.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\C# Fundamentals\\4. C# Advanced Features\\Week02Sat003\\Week02Sat003\\Week02Sat003.csproj",
+              "RelativeDocumentMoniker": "Week02Sat003\\Week02Sat003.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\C# Fundamentals\\4. C# Advanced Features\\Week02Sat003\\Week02Sat003\\Week02Sat003.csproj",
+              "RelativeToolTip": "Week02Sat003\\Week02Sat003.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-27T11:15:02.025Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
